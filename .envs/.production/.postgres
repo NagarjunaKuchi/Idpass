@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=rc2.technoforte.co.in
+POSTGRES_PORT=30090
+POSTGRES_DB=mosip_pms
+POSTGRES_USER=postgres
+POSTGRES_PASSWORD=mosip123

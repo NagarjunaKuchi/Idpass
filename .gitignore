@@ -275,6 +275,7 @@ card_generator/media/
 .env
 .envs/*
 !.envs/.local/
+!.envs/.production/
 
 # IDE
 .idea
