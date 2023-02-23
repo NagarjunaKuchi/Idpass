@@ -28,7 +28,7 @@ certificatesResolvers:
 http:
   routers:
     web-secure-router:
-      rule: "Host(`example.com`) || Host(`www.example.com`)"
+      rule: "Host(`idpass.technoforte.co.in`) || Host(`www.idpass.technoforte.co.in.com`)"
       entryPoints:
         - web-secure
       middlewares:
