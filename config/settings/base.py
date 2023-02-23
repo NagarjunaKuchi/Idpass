@@ -228,7 +228,7 @@ EMAIL_TIMEOUT = 5
 # Django Admin URL.
 ADMIN_URL = "admin/"
 # https://docs.djangoproject.com/en/dev/ref/settings/#admins
-ADMINS = [("""Newlogic""", "newlogic@example.com")]
+ADMINS = [("""Technoforte""", "nagarjunabtechece@gmail.com)]
 # https://docs.djangoproject.com/en/dev/ref/settings/#managers
 MANAGERS = ADMINS
 
@@ -301,7 +301,7 @@ SPECTACULAR_SETTINGS = {
     "SERVE_PERMISSIONS": ["rest_framework.permissions.AllowAny"],
     "SERVERS": [
         {"url": "http://localhost:8000", "description": "Local Development server"},
-        {"url": "https://example.com", "description": "Production server"},
+        {"url": "https://idpass.technoforte.co.in", "description": "Production server"},
     ],
 }
 # Your stuff...
